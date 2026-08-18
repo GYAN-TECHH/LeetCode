@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gyanranjan3236-hash/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/gyanranjan3236-hash/LeetCode/tree/master/0223-rectangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/gyanranjan3236-hash/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
